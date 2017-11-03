@@ -79,8 +79,6 @@ sub run {
 run();
 
 
-Segundo script responsável por bloquear os ips
-
 #!/bin/bash
 SHELL=/bin/sh
 PATH=/sbin:/usr/sbin:/usr/bin:/bin
